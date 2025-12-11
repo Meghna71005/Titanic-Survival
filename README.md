@@ -3,6 +3,7 @@
 This repository contains my complete workflow for the **Kaggle Titanic: Machine Learning from Disaster competition**.
 The goal is to build a model that predicts which passengers survived the Titanic sinking.This repository showcases **feature engineering, model comparison, cross-validation, and Kaggle submission workflow**.
 
+**Dataset from Kaggle Titanic: Machine Learning from Disaster**
 
 ## Project Highlights ⭐
 
